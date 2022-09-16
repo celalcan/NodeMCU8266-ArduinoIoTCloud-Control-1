@@ -5,7 +5,6 @@
 :License: Public Domain
 
 = Project: {Project}
-
 Describe your project
 
 == Step 1: Installation
